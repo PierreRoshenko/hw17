@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/hw17/static/css/main.ab1b21b5.chunk.css",
+    "main.js": "/hw17/static/js/main.f5730621.chunk.js",
+    "main.js.map": "/hw17/static/js/main.f5730621.chunk.js.map",
+    "runtime-main.js": "/hw17/static/js/runtime-main.f11929df.js",
+    "runtime-main.js.map": "/hw17/static/js/runtime-main.f11929df.js.map",
+    "static/js/2.8ce6ec17.chunk.js": "/hw17/static/js/2.8ce6ec17.chunk.js",
+    "static/js/2.8ce6ec17.chunk.js.map": "/hw17/static/js/2.8ce6ec17.chunk.js.map",
+    "static/js/3.1be3face.chunk.js": "/hw17/static/js/3.1be3face.chunk.js",
+    "static/js/3.1be3face.chunk.js.map": "/hw17/static/js/3.1be3face.chunk.js.map",
+    "index.html": "/hw17/index.html",
+    "static/css/main.ab1b21b5.chunk.css.map": "/hw17/static/css/main.ab1b21b5.chunk.css.map",
+    "static/js/2.8ce6ec17.chunk.js.LICENSE.txt": "/hw17/static/js/2.8ce6ec17.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/hw17/static/media/icomoon.725baa70.ttf",
+    "static/media/logo.6ce24c58.svg": "/hw17/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f11929df.js",
+    "static/js/2.8ce6ec17.chunk.js",
+    "static/css/main.ab1b21b5.chunk.css",
+    "static/js/main.f5730621.chunk.js"
+  ]
+}
